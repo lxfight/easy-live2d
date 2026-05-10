@@ -12,6 +12,7 @@ Make your Live2D as easy to control as a pixi sprite!
   <div align="center">
       <img src="https://img.shields.io/badge/node-%5E22.0.0-brightgreen" alt="license">
       <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license">
+      <img src="https://api.oosmetrics.com/api/v1/badge/achievement/7756c2c0-a022-49fa-b32c-b3cc0916f1bf.svg" alt="oosmetrics">
   </div>
 </div>
 
